@@ -5,7 +5,7 @@ i already added mine
 
 
 -------------------------------------
-guys i had a hard time getting the enviroment setup but it turned out it only works on openalab to be able
+guys i had a hard time getting the enviroment setup but it turned out it only works on openlab to be able
 to download the dependency so the only way to work on this assignment is on openlab.
 
 i follow this instruction and it helped me to run the program
